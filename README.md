@@ -2,7 +2,7 @@
 
 Resolução do problema 1521 do site UVa Online Judge: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4267
 
-1521. GCD Jogo de Adivinhação
+# 1521. GCD Jogo de Adivinhação
 
 # O Problema
 
