@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main2 {
+public class Resposta {
 
 	static int primos[], num_primos = 0;
 
